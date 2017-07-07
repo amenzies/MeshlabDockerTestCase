@@ -1,0 +1,6 @@
+<!DOCTYPE FilterScript>
+<FilterScript>
+ <filter name="Re-Compute Vertex Normals">
+  <Param enum_val1="By Angle" enum_val3="As defined by N. Max" value="0" description="Weighting Mode:" type="RichEnum" enum_cardinality="4" enum_val2="By Area" name="weightMode" enum_val0="None (avg)" tooltip=""/>
+ </filter>
+</FilterScript>
